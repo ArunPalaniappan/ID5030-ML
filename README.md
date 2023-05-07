@@ -1,5 +1,5 @@
 # ID5030-ML
-This repository contains the my solutions to the assignments of the course **ID5030-Machine Learning for Engineering and Science Applications** in the semester  
+This repository contains the my solutions to the assignments of the course **ID5030-Machine Learning for Engineering and Science Applications** in the semester
 _Jan-May'23_ in python language using frameworks such as ```PyTorch```.
 ### Assignments
 
